@@ -24,17 +24,18 @@ ul{
 
 
 .menu-item:hover{
-	background-color: rgba(117, 114, 114, 0.5);
+	background-color: rgba(155, 151, 151, 0.5);
+	border-radius: 50px;
 }
 
 .menu-item{
 	display: inline-block;
-	margin-left: 30px;
+	margin-left: 5px;
 	position: relative;
 }
 .menu-item > a{
 	display: block;
-	padding: 12px 0 5px 5px;
+	padding: 12px 20px 10px 5px;
 	font-size: 16px;
 	color: #000000;
 	text-transform: capitalize;
